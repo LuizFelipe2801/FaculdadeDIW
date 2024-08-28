@@ -1,0 +1,17 @@
+div 
+ {
+  height: 29rem;
+  width:  26rem;
+  border: 2px green solid;
+  margin: 3rem auto;
+  padding: .2rem;
+  text-align: center;
+ }
+ img 
+  {
+  display: block;
+  height: 28rem;
+  width:  25rem;
+  border: 2px red solid;
+  margin: .3rem;
+  }
