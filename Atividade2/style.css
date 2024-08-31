@@ -1,10 +1,10 @@
 div 
  {
   height: 29rem;
-  width:  26rem;
+  width:  51.5rem;
   border: 2px green solid;
-  margin: 3rem auto;
-  padding: .2rem;
+  margin: 10rem auto;
+  padding: .5rem;
   text-align: center;
  }
  img 
@@ -14,4 +14,8 @@ div
   width:  25rem;
   border: 2px red solid;
   margin: .3rem;
+  }
+  .flex-container 
+  {
+   display: flex;
   }
